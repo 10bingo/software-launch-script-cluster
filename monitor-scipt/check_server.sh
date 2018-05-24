@@ -14,7 +14,7 @@ nginxServer=192.168.199.245/nginx_status
 Mysql_Slave_Server='192.168.199.245'
 Check_Nginx_Server(){
 
- status_code=$(curl -I -m 5 -o /dev/null -s -w %{http_code} ${nginxServer})
+status_code=$(curl -I -m 5 -o /dev/null -s -w %{http_code} ${nginxServer})
 	if [ $status_code -eq 000 -o $status_code -ge 500 ];then
   	    echo -e $warnColor "check http server error! Response status code is" $errorColor $status_code $reset
 	else
