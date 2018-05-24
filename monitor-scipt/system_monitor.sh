@@ -96,5 +96,4 @@ df -hP | grep -vE 'tmpfs'>/tmp/disk_usages
 echo -e $fontColor "Disk Usages : "$reset && cat /tmp/disk_usages
 rm -f /tmp/disk_usages
 
-
 fi
