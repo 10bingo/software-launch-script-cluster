@@ -3,7 +3,7 @@
 
 
 
-## vimic配置文件
+## [vim配置文件](https://github.com/Tiakon/software-launch-script-cluster/tree/master/vim%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
 - 显示中文帮助
 
@@ -27,11 +27,27 @@
 **使用vimrc配置后的配置效果：**
 
 ![1527168777381](https://github.com/Tiakon/software-launch-script-cluster/blob/master/image/1527168777381.png)
-<<<<<<< HEAD
+
+
+
+## [monitor-scipt系统应用监控脚本](https://github.com/Tiakon/software-launch-script-cluster/tree/master/monitor-scipt) 
+
+
+
+- check_http_log.sh 		Nginx的日志分析   
+- check_server.sh 		        检查nginx和mysql的运行状态 
+- monitor_main.sh                 监控脚本启动的入口 
+- system_monitor.sh              打印系统基本信息 
 
 
 
 
 
-=======
->>>>>>> 59e13f4671d63db2a11b1b15d948d6c99964bac6
+
+
+
+
+
+
+
+
