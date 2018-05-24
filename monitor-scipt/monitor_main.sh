@@ -33,5 +33,3 @@ do
   fi
   /bin/bash /root/work/${sh_array[$input_num]}
 done
-
-
