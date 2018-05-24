@@ -27,8 +27,11 @@
 **使用vimrc配置后的配置效果：**
 
 ![1527168777381](https://github.com/Tiakon/software-launch-script-cluster/blob/master/image/1527168777381.png)
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> 59e13f4671d63db2a11b1b15d948d6c99964bac6
