@@ -25,4 +25,4 @@
 
 **使用vimrc配置后的配置效果：**
 
-![1527168777381](E:\MyRepository\software-launch-script-cluster\image\1527168777381.png)
+![1527168777381](https://github.com/Tiakon/software-launch-script-cluster/blob/master/image/1527168777381.png)
