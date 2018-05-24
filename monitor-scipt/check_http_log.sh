@@ -9,8 +9,8 @@
 
 reset=$(tput sgr0)
 fontColor="\E[33m"
-
 logfile_path="/usr/local/nginx/logs/access.log"
+
 Check_http_status(){
 
 http_statu_codes=(`cat /usr/local/nginx/logs/access.log|grep -ioE "HTTP\/1\.[1|0]\"[[:blank:]][0-9]{3}"|awk -F"[ ]+" '{
@@ -44,4 +44,3 @@ echo -e $fontColor "All request numbers: " $reset ${Http_Code[3]}
 }
 Check_http_status
 Check_http_code
-
