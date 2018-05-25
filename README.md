@@ -1,9 +1,9 @@
-# software-launch-script-cluster
+# [Software-Launch-Script-Cluster](https://github.com/Tiakon/software-launch-script-cluster)
 集群中常用软件的启动脚本，避免重复启动的繁琐
 
 
 
-## [vim配置文件](https://github.com/Tiakon/software-launch-script-cluster/tree/master/vim%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
+## [VIM配置文件](https://github.com/Tiakon/software-launch-script-cluster/tree/master/vim%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
 - 显示中文帮助
 
